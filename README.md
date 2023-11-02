@@ -12,6 +12,8 @@ MSc-y1-s1-w8-Lang-Eng-Python-Lecture
 
 [an onine ide](https://www.onlinegdb.com/online_python_compiler)
 
+[Brightspace | online ide](https://learn.ul.ie/d2l/le/lessons/10832/topics/454992)
+
 ### terminal commands (on Windows in CMD Command Line)
 
 ren file1 file2
