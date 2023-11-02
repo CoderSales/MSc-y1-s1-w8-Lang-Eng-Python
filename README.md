@@ -10,6 +10,12 @@ MSc-y1-s1-w8-Lang-Eng-Python-Lecture
 
 [how to read a file in python | geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-read-from-a-file-in-python/)
 
+### terminal commands (on Windows in CMD Command Line)
+
+ren file1 file2
+
+- renames file1 to file2
+
 ## References
 
 
