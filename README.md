@@ -16,7 +16,7 @@ MSc-y1-s1-w8-Lang-Eng-Python-Lecture
 
 [strings slides week 6](https://learn.ul.ie/d2l/le/lessons/10832/topics/530039)
 
-[nost frequent words known as Dolch words](https://www.sess.ie/sites/default/files/Resources/Cirricular_Material/DolchWord_List_220.pdf)
+[most frequent words known as Dolch words](https://www.sess.ie/sites/default/files/Resources/Cirricular_Material/DolchWord_List_220.pdf)
 
 ### terminal commands (on Windows in CMD Command Line)
 
